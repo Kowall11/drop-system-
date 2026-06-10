@@ -1,4 +1,4 @@
-# 🌊 Aqua SOS — Wireless Buoy Drop System via LoRa
+# 🌊 Aqua SOS - Wireless Buoy Drop System via LoRa
 
 > **Bezprzewodowy system zdalnego zrzutu boi ratowniczej sterowany przez LoRa**
 > Wireless remote-controlled rescue buoy release system using LoRa radio communication.
